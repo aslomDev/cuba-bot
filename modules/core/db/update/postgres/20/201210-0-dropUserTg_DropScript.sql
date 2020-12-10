@@ -1,0 +1,1 @@
+drop table if exists BOT_USER_TG__U50914 cascade ;
